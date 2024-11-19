@@ -13,6 +13,36 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 6.0.17
+    created: "2024-11-19T18:06:57.043992202Z"
+    description: Helm chart for cbioportal.
+    digest: 3ce4b6691dac8d227c215d276e56ff44cd47819b36e20b753d8e9e2d77ed9657
+    icon: https://docs.cbioportal.org/images/cbio-logo.png
+    keywords:
+    - cbioportal
+    - cancer
+    - genomics
+    maintainers:
+    - email: nasirz1@mskcc.org
+      name: Zain Nasir
+    - email: cbioportal@googlegroups.com
+      name: cBioPortal Team
+    name: cbioportal
+    type: application
+    urls:
+    - https://github.com/cBioPortal/cbioportal-helm/releases/download/cbioportal-0.1.7/cbioportal-0.1.7.tgz
+    version: 0.1.7
+  - annotations:
+      artifacthub.io/category: integration-delivery
+      artifacthub.io/links: |
+        - name: Homepage
+          url: https://www.cbioportal.org
+        - name: Source
+          url: https://github.com/cBioPortal/cbioportal
+        - name: Documentation
+          url: https://docs.cbioportal.org/
+      artifacthub.io/prerelease: "true"
+    apiVersion: v2
+    appVersion: 6.0.17
     created: "2024-11-08T22:44:39.946410879Z"
     description: Helm chart for cbioportal.
     digest: 90c3e5d56f95488ca68040bcc254e47e463ca91bfbeb6bb53452eefba43266e0
@@ -138,4 +168,4 @@ entries:
     urls:
     - https://github.com/cBioPortal/cbioportal-helm/releases/download/cbioportal-0.1.1/cbioportal-0.1.1.tgz
     version: 0.1.1
-generated: "2024-11-08T22:44:39.946434083Z"
+generated: "2024-11-19T18:06:57.044035372Z"
