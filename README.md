@@ -5,3 +5,7 @@ Helm charts for [cBioPortal](https://cbioportal.org/) Kubernetes Deployment.
 
 ## Requirements & Installation
 For detailed requirements and installation guide, check out our [documentation](https://docs.cbioportal.org/deployment/kubernetes/).
+
+## License
+
+These charts are licensed under the [Apache License 2.0](./LICENSE).
